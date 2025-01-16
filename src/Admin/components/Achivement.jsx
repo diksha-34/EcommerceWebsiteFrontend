@@ -17,7 +17,7 @@ const Achivement = () => {
   return (
     <Card sx={{position:"relative"}}>
         <CardContent>
-            <Typography variant='h6' sx={{letterSpacing:".25px"}}>Anshu Jain</Typography>
+            <Typography variant='h6' sx={{letterSpacing:".25px"}}>Diksha</Typography>
             <Typography variant='body2'>Congratulations 🥳</Typography>
             <Typography variant='h5' sx={{my:3.1}}>500k</Typography>
 
